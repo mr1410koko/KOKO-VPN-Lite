@@ -1,12 +1,13 @@
 {
 "Reward": "ca-app-pub-3940256099942544/5224354917",
 "Inter": "ca-app-pub-8283881532539011/3706824991",
-"version": 2,
+"version": 3,
 "message": "What's new \nAdded new server",
 
 "files": [
 
 {
+        {
          //true-1
          "config": "6cq4YjUc54JXjesa6f/7YmE3u+hS8ADpvwlTEwzXQ0mfAsbT0cfDcvz7A6TsGVuVT1uH23z0jPTpAiP0BRnMMQza+4nCgjcCjF1BfEC10LBQHhrfUN6KJ4w7GHBUdts1acPcBlvDdj6ol/MY/bjqQ4t89UQak4ZY2pBIDcW0WNt2/k4tzjCGUbK1S+rqw0k5az8rCv4KmTGX8Y9BkqOA+TrfG254jeJOrtnoJoaCKU/dElCz5hHHKZiPxDpk0W0IYr2nA33uIYX+oJzywvVb80B9zP8JxASaKXLlpCvwUL5oiQEty2jdb/jo+BtfJs/iMGOrXcv7gVZDw9SynPtrgHZnTfdi13qU/mbbgUQ8w3VRTyJ9Zm9SNcJjC8x3cJzRwtO4z7DRwMIB2qfcckX+QR59uya3RuVznXbcwZSF5sVbd1V4aw0iEQ=="
      
@@ -24,6 +25,14 @@
       
 
    ],
+
+
+
+"dtac": "Dtac ဆင်းမ်အတွက် အသုံးပြုနည်း \nDtac ဆင်းမ်ဆိုရင်...",
+
+"true": "True ဆင်းမ်အတွက် အသုံးပြုနည်း \nTrue ဆင်းမ်ဆိုရင်...",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAis ဆင်းမ်ဆိုရင်..."
 
 
 
