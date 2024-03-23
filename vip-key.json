@@ -8,12 +8,6 @@
 "Expiration":"29\/02\/2024"
 },
 {
-"Name":"Zaw Min",
-"Key":"0811b43126281256",
-"Valid":"30",
-"Expiration":"20\/03\/2024"
-},
-{
 "Name":"Aung Paing",
 "Key":"e544f33ee6e784e4",
 "Valid":"30",
@@ -345,42 +339,6 @@
 "Expiration":"25\/03\/2024"
 },
 {
-"Name":"Min Thar",
-"Key":"ae886ee4d9416fb9",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
-"Name":"ဝင့်နဒီလိူင်",
-"Key":"faf81d9a539724d4",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
-"Name":"Phwe",
-"Key":"4127ebd0f784fbfc",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
-"Name":"Saw Boung",
-"Key":"a44fd5a49ae952be",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
-"Name":"ကိုဟန်ဦး",
-"Key":"a42969e9d9bdb60f",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
-"Name":"ဟဟဒဂြိုင်",
-"Key":"5e7fc00f497136d5",
-"Valid":"30",
-"Expiration":"23\/03\/2024"
-},
-{
 "Name":"စိုးမိုးဦး",
 "Key":"af3da7b707df0595",
 "Valid":"90",
@@ -409,114 +367,6 @@
 "Key":"5537f639161f7255",
 "Valid":"30",
 "Expiration":"20\/04\/2024"
-},
-{
-"Name":"Than Tz",
-"Key":"9dd681a53fed430f",
-"Valid":"22",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Th Ein",
-"Key":"a51d8f71170ce7ba",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Nan Aye San",
-"Key":"5be22f15e98d229f",
-"Valid":"22",
-"Expiration":"12\/03\/2024"
-},
-{
-"Name":"Ph Yo",
-"Key":"c8b00465d502691b",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Rs Rs",
-"Key":"b173e1397d984267",
-"Valid":"21",
-"Expiration":"12\/03\/2024"
-},
-{
-"Name":"Thi Dar",
-"Key":"47e8170518846a2f",
-"Valid":"30",
-"Expiration":"03\/03\/2024"
-},
-{
-"Name":"Phyu Phyu",
-"Key":"d58c2aa135529cb0",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{  
-"Name":"Thin Thin",
-"Key":"94f9b36117203f12",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Su Lay",
-"Key":"bf9f1c30e08eae82",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Oo Oo Arkar",
-"Key":"59ee6b816417268c",
-"Valid":"30",
-"Expiration":"05\/03\/2024"
-},
-{
-"Name":"Kyaw Kyaw",
-"Key":"37acca7a005bfeef",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Nyi Nyi",
-"Key":"b633839d04d94fe4",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Chit Tc",
-"Key":"d32823fd461abcbf",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Lin Lin",
-"Key":"6bde819bffa2f847",
-"Valid":"30",
-"Expiration":"18\/03\/2024"
-},
-{
-"Name":"Aung Kyaw Lin",
-"Key":"b90175b7b342d0ad",
-"Valid":"30",
-"Expiration":"18\/03\/2024"
-},
-{
-"Name":"Yan Naing",
-"Key":"ba6addf11e0962c3",
-"Valid":"30",
-"Expiration":"18\/03\/2024"
-},
-{
-"Name":"Ye Ko Ko",
-"Key":"1729d7b64279ba84",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
-},
-{
-"Name":"Myo Myo",
-"Key":"fba30405f14a6ac4",
-"Valid":"30",
-"Expiration":"19\/03\/2024"
 },
 {
 "Name":"Rs Rs",
