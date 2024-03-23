@@ -1,7 +1,7 @@
 {
 "Reward": "ca-app-pub-8278924142679566/7981600599",
 "Inter": "ca-app-pub-8278924142679566/6538874022",
-"version": 24,
+"version": 25,
 "message": "What's new \nAdded new server",
 
 "files": [
@@ -116,8 +116,8 @@
      
 },
 {
-         //dtac-10
-         "IPAl1V/3lD7Sf52DhwRA7Xuoplt6JIbrC8TOE8lYJ2ZEmr6W7ACQmCdvzJF0NCk+ThMx3wsOceTkjircFYaEi2YvKhldnTLiW6YnD3yAJb32Xh3leqjyQIG1SQGakyga0lXTNZV1aTV8KkscR9cs74jollMNG8Aocmpy/SB6LWNnTWh48EfI8UHrLHkdP9TnI/MQmlkLRnwFwSv8dGpZ/s2s1mmIM66wSsHybHjZg1EsSpw2ihwnbv5OMRvvFXmU"
+          //dtac-10
+         "config": "IPAl1V/3lD7Sf52DhwRA7Xuoplt6JIbrC8TOE8lYJ2ZEmr6W7ACQmCdvzJF0NCk+ThMx3wsOceTkjircFYaEi2YvKhldnTLiW6YnD3yAJb32Xh3leqjyQIG1SQGakyga0lXTNZV1aTV8KkscR9cs74jollMNG8Aocmpy/SB6LWNnTWh48EfI8UHrLHkdP9TnI/MQmlkLRnwFwSv8dGpZ/s2s1mmIM66wSsHybHjZg1EsSpw2ihwnbv5OMRvvFXmU"
      
 },
 {
@@ -146,8 +146,8 @@
      
 },
 {
-         //ais-3
-         "MnK7upN3vWEauz0coXwaJfY/KJi5Go8K8pgGH+Kt0Rycvs1hS3IS8+9N1eJnzp9gtk+ft5ENQQC6eLhRYpDJHktmPoSl06D9zPmnxo9uJc334qF9VYdWFfbNqdKSEg55x8jZ7UEi6jtDvRah40KfftEqrdjegtGJNQTVdXvoRfDNdz7lc20E6ZMqEp4xt0vfW9sJJKhn91jea00ytm2QeUT8OzUSP4w8pnDtAiGvLj4/qcgU+7nAxu2LmUWLlRclgCXWwXWLwFsoEWXeY8T4htK49HTUcWjbxSpg/7UgK02HA8F3NwoFZsmObnswmUeWP6OoDt10y8BPhoROijHHOMbrweLF0RSoEN/IZ3u34XyWFyNAOAqXccnBIRZkQZ8jXMkTm8IRLNSOvW9w3j2mbtWFHvt7SExMPXBKtgONzxHLLcLenPQr7uONSTL3gLbk2Bf7qQ=="
+             //ais-3
+         "config": "MnK7upN3vWEauz0coXwaJfY/KJi5Go8K8pgGH+Kt0Rycvs1hS3IS8+9N1eJnzp9gtk+ft5ENQQC6eLhRYpDJHktmPoSl06D9zPmnxo9uJc334qF9VYdWFfbNqdKSEg55x8jZ7UEi6jtDvRah40KfftEqrdjegtGJNQTVdXvoRfDNdz7lc20E6ZMqEp4xt0vfW9sJJKhn91jea00ytm2QeUT8OzUSP4w8pnDtAiGvLj4/qcgU+7nAxu2LmUWLlRclgCXWwXWLwFsoEWXeY8T4htK49HTUcWjbxSpg/7UgK02HA8F3NwoFZsmObnswmUeWP6OoDt10y8BPhoROijHHOMbrweLF0RSoEN/IZ3u34XyWFyNAOAqXccnBIRZkQZ8jXMkTm8IRLNSOvW9w3j2mbtWFHvt7SExMPXBKtgONzxHLLcLenPQr7uONSTL3gLbk2Bf7qQ=="
      
 },
 {
