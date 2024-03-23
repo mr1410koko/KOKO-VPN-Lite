@@ -368,24 +368,6 @@
 "Valid":"30",
 "Expiration":"20\/04\/2024"
 },
-{
-"Name":"Rs Rs",
-"Key":"efa7503f5d5a0259",
-"Valid":"22",
-"Expiration":"12\/03\/2024"
-},
-{
-"Name":"Sai Shwe Lu",
-"Key":"ed8cf59415b6c932",
-"Valid":"30",
-"Expiration":"18\/03\/2024"
-},
-{
-"Name":"Test",
-"Key":"1234567890",
-"Valid":"30",
-"Expiration":"22\/02\/2024"
-}
 
 
 ]
